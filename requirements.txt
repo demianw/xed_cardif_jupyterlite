@@ -50,4 +50,5 @@ pandas
 seaborn
 geopandas
 descartes
-mpl3d
+mpld3
+
